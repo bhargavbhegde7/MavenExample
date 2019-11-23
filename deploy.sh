@@ -1,3 +1,4 @@
+#!/bin/bash
 git clone https://github.com/bhargavbhegde7/MavenExample.git
 cd MavenExample
 mvn clean package
